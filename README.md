@@ -58,12 +58,17 @@ A machine learning-powered BI model, developed for my assignment to help improve
 Freelance project for a client’s tender portfolio.
 
 # 📅 What I’m Currently Working On
-Learning Path: Deep-dive into JavaScript, followed by Python and Java over the next 2 years.
-Househunting App: Adding user-friendly features for tenants and landlords alike.
-Django Exploration: Building foundational skills in backend development.
+**Learning Path:** Deep-dive into JavaScript, followed by Python and Java over the next 2 years.
+
+**Househunting App:** Adding user-friendly features for tenants and landlords alike.
+
+**Django Exploration:** Building foundational skills in backend development.
 
 # 📫 Let’s Connect!
 LinkedIn: https://www.linkedin.com/in/peter-njihia-wanjiru-194200256/
+
 Twitter: 
+
 Portfolio: 
+
 Thanks for visiting my GitHub! I'm always open to collaboration and new opportunities, especially in fields that make a positive impact. Feel free to reach out if you’re interested in working together or have any questions.
