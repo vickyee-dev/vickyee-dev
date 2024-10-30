@@ -7,34 +7,54 @@ I'm Victor, Welcome to my GitHub profile! I'm an aspiring full-stack developer w
 # 🌟 About Me
 
 🎓 Currently Pursuing: Bachelor’s in Information Technology
+
 💼 Freelancer: Web Designer
+
 💡 Interests: Full Stack Development, Cybersecurity, Database Management, Financial Systems, and creating business intelligence solutions
+
 🌍 Goals: Building solutions for the Kenyan market, especially in rental tech, safe search software, and tech support.
+
 🕰️ Current Focus Areas:
-Mastering JavaScript for problem-solving and interactive web applications
-Learning Python (Django) and Cybersecurity basics
-Developing my househunting app
+
+      Mastering JavaScript for problem-solving and interactive web applications
+      Learning Python (Django) and Cybersecurity basics
+      Developing my househunting app
 
 # 💻 Tech Stack
-Frontend: HTML, CSS, JavaScript, React, Next.js
-Backend: Node.js, Django (exploring), Express
-Databases: MongoDB, SQL
-Tools: Git, GitHub, NextAuth.js, ShadCN for UI components
-Other Skills: Project wireframing, responsive design, web accessibility, and testing (for hobby)
+
+**Frontend:** HTML, CSS, JavaScript, React, Next.js
+
+**Backend:** Node.js, Django (exploring), Express
+
+**Databases:** MongoDB, SQL
+
+**Tools:** Git, GitHub, NextAuth.js, ShadCN for UI components
+
+**Other Skills:** Project wireframing, responsive design, web accessibility, and testing (for hobby)
 
 # 🚀 Key Projects
-Househunting App (In Progress)
+**Househunting App (In Progress)**
+
 An app designed to improve rental transparency and efficiency in Kenya:
 
-Features: Location-based property listing, hidden dashboard for property managers, in-app messaging, and estate vacancy tracking.
-Tech: React for frontend, Node.js for backend.
-School Mapping Software
+**Features: **
+
+Location-based property listing, hidden dashboard for property managers, in-app messaging, and estate vacancy tracking.
+
+**Tech:**
+
+React for frontend, Node.js for backend.
+
+**School Mapping Software**
+
 A client-side tool for finding nearby schools based on specific filters (level and location) and viewing school details on click.
 
-Quickmart Supermarket Business Intelligence Model
-A machine learning-powered BI model, developed for my assignment to help improve Quickmart’s business insights. Due in November 2024.
+**Supermarket Business Intelligence Model**
 
-Portfolio Website on Wix
+A machine learning-powered BI model, developed for my assignment to help improve supermarket business insights. Due in November 2024.
+
+**Portfolio Website on Wix**
+
 Freelance project for a client’s tender portfolio.
 
 # 📅 What I’m Currently Working On
