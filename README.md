@@ -37,7 +37,7 @@ I'm Victor, Welcome to my GitHub profile! I'm an aspiring full-stack developer w
 
 An app designed to improve rental transparency and efficiency in Kenya:
 
-**Features: **
+**Features:**
 
 Location-based property listing, hidden dashboard for property managers, in-app messaging, and estate vacancy tracking.
 
@@ -51,11 +51,7 @@ A client-side tool for finding nearby schools based on specific filters (level a
 
 **Supermarket Business Intelligence Model**
 
-A machine learning-powered BI model, developed for my assignment to help improve supermarket business insights. Due in November 2024.
-
-**Portfolio Website on Wix**
-
-Freelance project for a client’s tender portfolio.
+A machine learning-powered BI model, developed to help improve supermarket business insights.
 
 # 📅 What I’m Currently Working On
 **Learning Path:** Deep-dive into JavaScript, followed by Python and Java over the next 2 years.
@@ -65,10 +61,10 @@ Freelance project for a client’s tender portfolio.
 **Django Exploration:** Building foundational skills in backend development.
 
 # 📫 Let’s Connect!
-LinkedIn: https://www.linkedin.com/in/peter-njihia-wanjiru-194200256/
+**LinkedIn:** https://www.linkedin.com/in/peter-njihia-wanjiru-194200256/
 
-Twitter: 
+**Twitter: **
 
-Portfolio: 
+**Portfolio: **
 
 Thanks for visiting my GitHub! I'm always open to collaboration and new opportunities, especially in fields that make a positive impact. Feel free to reach out if you’re interested in working together or have any questions.
