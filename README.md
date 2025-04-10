@@ -61,7 +61,7 @@ A machine learning-powered BI model, developed to help improve supermarket busin
 **Django Exploration:** Building foundational skills in backend development.
 
 # 📫 Let’s Connect!
-**LinkedIn:** https://www.linkedin.com/in/peter-njihia-wanjiru-194200256/
+**LinkedIn:** https://www.linkedin.com/in/peter-njihia-34121a347/
 
 **Twitter: **
 
