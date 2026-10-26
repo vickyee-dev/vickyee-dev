@@ -1,70 +1,155 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vickyee-dev)](https://github.com/anuraghazra/github-readme-stats)
 
-# Hi, there 👋
+# Hi, I'm Peter Njihia 👋
 
-I'm Victor, Welcome to my GitHub profile! I'm an aspiring full-stack developer with a strong focus on JavaScript, Python, and Java. I'm passionate about creating tech solutions that address real-world problems, especially those faced by developing countries. Here, you’ll find some of the projects I’m working on, as well as resources and ideas I’m exploring in my tech journey.
+### Full-Stack Software Developer | Backend Engineering | Application Security
 
-# 🌟 About Me
+I build practical software solutions that solve real-world problems, with a focus on full-stack development, backend architecture, database design, and secure application development.
 
-🎓 Currently Pursuing: Bachelor’s in Information Technology
+I'm a **BSc Information Technology graduate** based in Kenya, interested in building reliable software infrastructure for businesses and communities. My work spans web applications, REST APIs, data management systems, e-commerce, and blockchain-based applications.
 
-💼 Freelancer: Web Designer
+- 🔭 **Currently building:** Full-stack applications and backend systems.
+- 💻 **Core stack:** JavaScript, React, Node.js, Express.js, PostgreSQL, and Prisma.
+- 🔐 **Engineering interests:** API security, authentication, data integrity, and scalable backend architecture.
+- 🌍 **Mission:** Build useful technology that addresses real-world problems, particularly in African markets.
+- 🤝 **Open to:** Junior software engineering roles, internships, collaborations, and open-source contributions.
 
-💡 Interests: Full Stack Development, Cybersecurity, Database Management, Financial Systems, and creating business intelligence solutions
+---
 
-🌍 Goals: Building solutions for the Kenyan market, especially in rental tech, safe search software, and tech support.
+## 🛠️ Technical Skills
 
-🕰️ Current Focus Areas:
+**Languages:** JavaScript, SQL, Python (foundational), Solidity
 
-      Mastering JavaScript for problem-solving and interactive web applications
-      Learning Python (Django) and Cybersecurity basics
-      Developing my househunting app
+**Frontend:** React, HTML5, CSS3, Tailwind CSS, Vite
 
-# 💻 Tech Stack
+**Backend:** Node.js, Express.js, REST APIs, JWT authentication, server-side validation
 
-**Frontend:** HTML, CSS, JavaScript, React, Next.js
+**Databases & ORM:** PostgreSQL, SQLite, MongoDB, Prisma ORM
 
-**Backend:** Node.js, Django (exploring), Express
+**Security:** Authentication and authorization, role-based access control, input validation, secure session management, CSRF protection, rate limiting
 
-**Databases:** MongoDB, SQL
+**Tools & Platforms:** Git, GitHub, Docker, Postman, Figma, Linux
 
-**Tools:** Git, GitHub, NextAuth.js, ShadCN for UI components
+**Testing & Engineering:** API testing, automated testing, database modelling, debugging, responsive design, technical documentation
 
-**Other Skills:** Project wireframing, responsive design, web accessibility, and testing (for hobby)
+---
 
-# 🚀 Key Projects
-**Househunting App (In Progress)**
+## 🚀 Featured Projects
 
-An app designed to improve rental transparency and efficiency in Kenya:
+### 1. Community Security & Incident Reporting System
 
-**Features:**
+A full-stack application that enables residents to report community incidents, track reports on an interactive map, communicate with security officers, and receive real-time alerts.
 
-Location-based property listing, hidden dashboard for property managers, in-app messaging, and estate vacancy tracking.
+**Key features**
+- Interactive incident mapping and location-based reporting.
+- Role-based dashboards for residents, officers, and administrators.
+- Real-time updates and incident-specific messaging.
+- Incident analytics, hotspot visualizations, and CSV/PDF exports.
+- Secure authentication, input validation, and access control.
 
-**Tech:**
+**Tech:** React, Node.js, Express.js, PostgreSQL, Prisma, Socket.IO, Leaflet, Tailwind CSS.
 
-React for frontend, Node.js for backend.
+### 2. Hidden Store — E-commerce Platform
 
-**School Mapping Software**
+A full-stack e-commerce application designed for the Kenyan market, supporting product discovery, shopping carts, checkout, order management, and M-Pesa payment confirmation.
 
-A client-side tool for finding nearby schools based on specific filters (level and location) and viewing school details on click.
+**Key features**
+- Product search, filtering, sorting, and pagination.
+- Inventory-aware shopping carts and checkout.
+- Pay on Delivery and manual M-Pesa confirmation.
+- Administrative product, inventory, order, and customer management.
+- Transactional inventory updates, server-side pricing, and automated tests.
 
-**Supermarket Business Intelligence Model**
+**Tech:** Node.js, Express.js, SQLite, EJS, JavaScript, HTML, CSS.
 
-A machine learning-powered BI model, developed to help improve supermarket business insights.
+### 3. Gatepass — Blockchain Event Ticketing
 
-# 📅 What I’m Currently Working On
-**Learning Path:** Deep-dive into JavaScript, followed by Python and Java over the next 2 years.
+A decentralized event ticketing application that uses smart contracts to manage event creation, ticket purchases, transfers, check-ins, and refunds.
 
-**Househunting App:** Adding user-friendly features for tenants and landlords alike.
+**Key features**
+- Smart-contract-based ticket purchases and event-specific escrow.
+- Wallet integration and QR-code ticket presentation.
+- Ticket transfers and refunds for cancelled events.
+- Organizer controls and authorized door-staff check-ins.
+- Contract testing and transaction status feedback.
 
-**Django Exploration:** Building foundational skills in backend development.
+**Tech:** Solidity, Hardhat, React, ethers.js, Tailwind CSS, Avalanche.
 
-# 📫 Let’s Connect!
-**LinkedIn:** https://www.linkedin.com/in/peter-njihia-34121a347/
+*Note: This is a portfolio project and has not been professionally audited.*
 
-**Twitter: **
+### 4. CareerIgnite — Internship Management API
 
-**Portfolio: **
+A REST API for managing internship and early-career opportunities, applications, candidate documents, and recruitment workflows.
 
-Thanks for visiting my GitHub! I'm always open to collaboration and new opportunities, especially in fields that make a positive impact. Feel free to reach out if you’re interested in working together or have any questions.
+**Key features**
+- Authentication and administrator/intern roles.
+- Opportunity publishing, filtering, and application tracking.
+- Application status transitions and document uploads.
+- Input validation, access controls, and consistent API responses.
+- Automated tests for authentication, authorization, and resource workflows.
+
+**Tech:** Node.js, PostgreSQL, Prisma ORM, JWT, SQL, Node.js built-in testing tools.
+
+### 5. Org Directory — Organization & Contact Management
+
+A full-stack business directory for managing organizations, industry classifications, and professional contacts.
+
+**Key features**
+- Organization and contact management with search and filtering.
+- Dashboard analytics and server-side pagination.
+- Relational data modelling and transactional primary-contact management.
+- CSV exports with spreadsheet formula-injection protection.
+- Responsive interface and centralized API error handling.
+
+**Tech:** React, Node.js, Express.js, PostgreSQL, Prisma ORM, Tailwind CSS.
+
+### 6. Modern Barbershop — Online Booking System
+
+A barbershop booking application that lets customers choose services, barbers, and available appointment slots, while staff manage bookings and daily operations.
+
+**Key features**
+- Appointment scheduling based on barber availability and service duration.
+- Booking references, appointment lookup, and cancellation.
+- Staff dashboard, service management, and walk-in bookings.
+- Customer records and appointment history.
+- Automated tests for booking and availability logic.
+
+**Tech:** React, JavaScript, Vite, Tailwind CSS, localStorage.
+
+*This is a frontend-focused demo; it currently has no backend.*
+
+### 7. Organization Internship Management & Contact Systems
+
+Systems developed and refined around internship programme management and organizational contact records, building on experience gained during an ICT Authority attachment.
+
+**Focus areas:** Data management, workflow automation, relational database design, and administrative tooling.
+
+---
+
+## 📊 GitHub Statistics
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vickyee-dev&show_icons=true&theme=github_dark&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vickyee-dev&layout=compact&theme=github_dark&hide_border=true)
+
+---
+
+## 🎓 Education & Experience
+
+**Bachelor of Science in Information Technology**  
+Murang’a University of Technology
+
+**ICT Authority — ICT Attachment**
+
+Gained practical experience developing and improving internal information systems, including internship management and organizational contact directory modules.
+
+---
+
+## 📫 Let's Connect
+
+- **GitHub:** [@vickyee-dev](https://github.com/vickyee-dev)
+- **LinkedIn:** [Peter Njihia](https://www.linkedin.com/in/peter-njihia-34121a347/)
+
+I'm interested in working with teams that value sound engineering, problem-solving, continuous improvement, and software that delivers measurable value.
+
+*Thanks for visiting my profile!*
